@@ -1,0 +1,13 @@
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pandas>=2.1.0
+python-multipart>=0.0.6
+python-jose>=3.3.0
+passlib>=1.7.4
+python-dotenv>=1.0.0
+pydantic>=2.4.2
+websockets>=11.0.3
+aiofiles>=23.2.1
+plotly>=5.17.0 
